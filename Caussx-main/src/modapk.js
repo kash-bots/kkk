@@ -149,13 +149,7 @@ https://realsht.mobi/iJQbj
 • 100 Font Picsay/Pixelab
 https://realsht.mobi/hrTdE
 
-kashi-kun o pequenino shota 😳🤙 
-nya Ana te amo tá
-nyaaa mini Adrian vagabundo
-Geovana salve 🤙
-
-am tbm um salve para o grupo do dementes da akatsuki meus maninos
-entra ae https://chat.whatsapp.com/HOruDilXEj0A4dHeBRzueZ
+CAUSS NO CONTROLE 🐊🚩
 `
 }
 exports.modapk = modapk

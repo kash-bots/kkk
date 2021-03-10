@@ -1,11 +1,7 @@
 const pack = (prefix) => {
     return `*PACKS:*
     
-*KASHI* 😳🤙
-
-
-
-SEU PUNHETERO FDP
+*DARK DOMIMA 🐊🚩*
 
 Belle delphine : https://photos.app.goo.gl/Jr4Qk1dFSJepPdRc7 
 

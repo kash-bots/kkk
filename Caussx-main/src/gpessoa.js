@@ -2,7 +2,7 @@ const gpessoa = (prefix) => {
 
 return `*GERADORE DE DADOS PESSOAIS:*
 
-*KASHI* 😳🤙
+*CAUSS NO CONTROLE* 🐊🚩
 
 nome: Ester Giovanna Alice Nunes
 idade: 59

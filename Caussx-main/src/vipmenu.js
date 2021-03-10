@@ -3,13 +3,6 @@ const vipmenu = (prefix) => {
 	
 ╔══✪〘 USUÁRIO VIP 〙✪══
 ║
-║
-║
-║parebens meu parceiro vc tem vip 
-║nao sei como mais tem 
-║
-║em fim, aproveita ae
-║
 ╠➸ *${prefix}dado*
 ╠➸ *${prefix}cekvip*
 ╠➸ *${prefix}premiumlist*
@@ -26,7 +19,7 @@ const vipmenu = (prefix) => {
 ╠➥ *${prefix}gpessoa*
 ║
 ║
-╚══✪〘  KASHI BOT 〙✪══
+╚══✪〘  CAUSS BOT 〙✪══
 `
 }
 exports.vipmenu = vipmenu

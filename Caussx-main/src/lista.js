@@ -4,13 +4,6 @@ const lista = () => {
 
 Líderes:
 
-papa-papa-papapappapap
-PAPAPAPPAPAP
-*PAPAPPAPAPAPPAPAPPA*
-
-amm e eu tenho demência hehe 
-assinado kashi 😳🤙
-
 ➥ Sr Hashirama: https://www.youtube.com/channel/UC3diVS4vHWU51G3hnRfHSuw
 
 ➥ Sr Tobirama: https://www.youtube.com/channel/UC7PckrMtKscLQifW5LPJe1Q
